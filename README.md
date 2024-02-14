@@ -1,2 +1,7 @@
 # quiz
-Quiz onde mostra a taxa de assertividade 
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Github
