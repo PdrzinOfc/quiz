@@ -1,7 +1,3 @@
-//const e let são variaiveis
-//[ ] servem para indicar que esta sendo declarado uma lista, cada um tem uma posição partindo do 0
-// { } é um indicador unico que serve como referencia para acessar um determinado valor associado a ela.
-
 const perguntas = [
     {
       pergunta: "O que é JavaScript?",
